@@ -5,7 +5,7 @@ This system allows users to register, log in, deposit, withdraw, transfer money,
 The project features a graphical user interface (GUI) built using Java Swing and is developed using the Eclipse IDE.
 
 Features of the project 
-  *Registration: New users can create an account by providing necessary details.
+  Registration: New users can create an account by providing necessary details.
   Login: Registered users can log in to the system using their account number and password.
   Deposit: Users can deposit money into their account.
   Withdraw: Users can withdraw money from their account.
