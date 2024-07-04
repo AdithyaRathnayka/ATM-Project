@@ -1,5 +1,5 @@
-*ATM Management System*
-Overview
+# ATM Management System
+
 The ATM Management System is a Java-based application designed to simulate the functionalities of an Automated Teller Machine (ATM). 
 This system allows users to register, log in, deposit, withdraw, transfer money, check their account balance, and view their transaction history. 
 The project features a graphical user interface (GUI) built using Java Swing and is developed using the Eclipse IDE.
